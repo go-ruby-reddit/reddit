@@ -1,2 +1,4 @@
 github.com/go-reddit/reddit v0.1.0 h1:/b6+4BKEBSnSIVAuWEYaLU4d01tjfcsu+LQea3OFSw4=
 github.com/go-reddit/reddit v0.1.0/go.mod h1:/zGZliQ8lN+iGyVAiGzeGGkY+rQBZNlF4JwAnRaYEGI=
+github.com/go-reddit/reddit v0.9.0 h1:oO6GghKLEYnvFmqg8aApixD0CZOj2r2K0drUezrtPqk=
+github.com/go-reddit/reddit v0.9.0/go.mod h1:/zGZliQ8lN+iGyVAiGzeGGkY+rQBZNlF4JwAnRaYEGI=
