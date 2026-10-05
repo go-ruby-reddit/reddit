@@ -32,11 +32,11 @@ type Option = godreddit.Option
 
 // Re-exported client options.
 var (
-	WithUserAgent  = godreddit.WithUserAgent
-	WithOAuth      = godreddit.WithOAuth
+	WithUserAgent   = godreddit.WithUserAgent
+	WithOAuth       = godreddit.WithOAuth
 	WithOAuthScript = godreddit.WithOAuthScript
-	WithHTTPClient = godreddit.WithHTTPClient
-	WithBaseURL    = godreddit.WithBaseURL
+	WithHTTPClient  = godreddit.WithHTTPClient
+	WithBaseURL     = godreddit.WithBaseURL
 )
 
 // Session is a Ruby-facing handle over a go-reddit client.
